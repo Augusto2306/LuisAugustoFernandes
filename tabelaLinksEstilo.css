@@ -1,0 +1,18 @@
+.imagem{
+    background: url(Re.jpeg) no-repeat;
+    width: 200px;
+    height: 200px;
+    display:block;
+    background-size: contain;
+
+}
+
+.imagem:hover{
+    background-position: 0PX 50PX;
+
+}
+
+
+.imagem:active{
+    background-position: 100px 100px;
+}
